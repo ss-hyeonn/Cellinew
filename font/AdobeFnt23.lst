@@ -1,0 +1,451 @@
+%!Adobe-FontList 1.23
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy-Rounded.eot
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy-Rounded.woff
+FileModTime:1738541518
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy-Rounded.woff2
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\.DS_Store
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Moneygraphy-Pixel
+FamilyName:Moneygraphy-Pixel
+StyleName:Pixel
+FullName:Moneygraphy Pixel
+MenuName:머니그라피 Pixel
+StyleBits:0
+FamilyNameNative:머니그라피
+StyleNameNative:Pixel
+FullNameNative:머니그라피 Pixel
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\OTF\Moneygraphy-Pixel.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:375808
+FileModTime:1738541517
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Moneygraphy Pixel
+NameArray:3,Mac,4,머니그라피 Pixel
+NameArray:3,Mac,18,머니그라피 Pixel
+NameArray:0,Win,1,Moneygraphy
+NameArray:0,Win,16,?꽂???
+NameArray:3,Win,1,머니그라피 Pixel
+NameArray:3,Win,16,머니그라피
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Moneygraphy-Rounded
+FamilyName:Moneygraphy-Rounded
+StyleName:Rounded
+FullName:Moneygraphy Rounded
+MenuName:머니그라피 Rounded
+StyleBits:0
+FamilyNameNative:머니그라피
+StyleNameNative:Rounded
+FullNameNative:머니그라피 Rounded
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\OTF\Moneygraphy-Rounded.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:414732
+FileModTime:1738541517
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Moneygraphy Rounded
+NameArray:3,Mac,4,머니그라피 Rounded
+NameArray:3,Mac,18,머니그라피 Rounded
+NameArray:0,Win,1,Moneygraphy
+NameArray:0,Win,16,?꽂???
+NameArray:3,Win,1,머니그라피 Rounded
+NameArray:3,Win,16,머니그라피
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MoneygraphyTTF-Pixel
+FamilyName:MoneygraphyTTF-Pixel
+StyleName:Pixel
+FullName:MoneygraphyTTF Pixel
+MenuName:머니그라피TTF Pixel
+StyleBits:0
+FamilyNameNative:머니그라피TTF
+StyleNameNative:Pixel
+FullNameNative:머니그라피TTF Pixel
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\TTF\Moneygraphy-Pixel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1547776
+FileModTime:1738541518
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,MoneygraphyTTF Pixel
+NameArray:3,Mac,4,머니그라피TTF Pixel
+NameArray:3,Mac,18,머니그라피TTF Pixel
+NameArray:0,Win,1,MoneygraphyTTF
+NameArray:0,Win,16,?꽂???TTF
+NameArray:3,Win,1,머니그라피TTF Pixel
+NameArray:3,Win,16,머니그라피TTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MoneygraphyTTF-Rounded
+FamilyName:MoneygraphyTTF-Rounded
+StyleName:Rounded
+FullName:MoneygraphyTTF Rounded
+MenuName:머니그라피TTF Rounded
+StyleBits:0
+FamilyNameNative:머니그라피TTF
+StyleNameNative:Rounded
+FullNameNative:머니그라피TTF Rounded
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\TTF\Moneygraphy-Rounded.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1049796
+FileModTime:1738541518
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,MoneygraphyTTF Rounded
+NameArray:3,Mac,4,머니그라피TTF Rounded
+NameArray:3,Mac,18,머니그라피TTF Rounded
+NameArray:0,Win,1,MoneygraphyTTF
+NameArray:0,Win,16,?꽂???TTF
+NameArray:3,Win,1,머니그라피TTF Rounded
+NameArray:3,Win,16,머니그라피TTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Pixel.eot
+FileModTime:1738541518
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Pixel.woff
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Pixel.woff2
+FileModTime:1738541518
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Rounded.eot
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Rounded.woff
+FileModTime:1738541518
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Moneygraphy\WOFF EOT\Moneygraphy-Rounded.woff2
+FileModTime:1738541517
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-1Thin
+FamilyName:Paperlogy
+StyleName:1 Thin
+FullName:Paperlogy 1 Thin
+MenuName:페이퍼로지 1 Thin
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:1 Thin
+FullNameNative:페이퍼로지 1 Thin
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-1Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1318080
+FileModTime:1738577553
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 1 Thin
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 1 Thin
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-2ExtraLight
+FamilyName:Paperlogy
+StyleName:2 ExtraLight
+FullName:Paperlogy 2 ExtraLight
+MenuName:페이퍼로지 2 ExtraLight
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:2 ExtraLight
+FullNameNative:페이퍼로지 2 ExtraLight
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-2ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1315380
+FileModTime:1738577553
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 2 ExtraLight
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 2 ExtraLight
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-3Light
+FamilyName:Paperlogy
+StyleName:3 Light
+FullName:Paperlogy 3 Light
+MenuName:페이퍼로지 3 Light
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:3 Light
+FullNameNative:페이퍼로지 3 Light
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-3Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1314504
+FileModTime:1738577553
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 3 Light
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 3 Light
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-4Regular
+FamilyName:Paperlogy
+StyleName:4 Regular
+FullName:Paperlogy 4 Regular
+MenuName:페이퍼로지 4 Regular
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:4 Regular
+FullNameNative:페이퍼로지 4 Regular
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-4Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1312616
+FileModTime:1738577553
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 4 Regular
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 4 Regular
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-5Medium
+FamilyName:Paperlogy
+StyleName:5 Medium
+FullName:Paperlogy 5 Medium
+MenuName:페이퍼로지 5 Medium
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:5 Medium
+FullNameNative:페이퍼로지 5 Medium
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-5Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1311560
+FileModTime:1738577553
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 5 Medium
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 5 Medium
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-6SemiBold
+FamilyName:Paperlogy
+StyleName:6 SemiBold
+FullName:Paperlogy 6 SemiBold
+MenuName:페이퍼로지 6 SemiBold
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:6 SemiBold
+FullNameNative:페이퍼로지 6 SemiBold
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-6SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1309568
+FileModTime:1738577553
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 6 SemiBold
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 6 SemiBold
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-7Bold
+FamilyName:Paperlogy
+StyleName:7 Bold
+FullName:Paperlogy 7 Bold
+MenuName:페이퍼로지 7 Bold
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:7 Bold
+FullNameNative:페이퍼로지 7 Bold
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-7Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1307936
+FileModTime:1738577553
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 7 Bold
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 7 Bold
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-8ExtraBold
+FamilyName:Paperlogy
+StyleName:8 ExtraBold
+FullName:Paperlogy 8 ExtraBold
+MenuName:페이퍼로지 8 ExtraBold
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:8 ExtraBold
+FullNameNative:페이퍼로지 8 ExtraBold
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-8ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1304560
+FileModTime:1738577553
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 8 ExtraBold
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 8 ExtraBold
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Paperlogy-9Black
+FamilyName:Paperlogy
+StyleName:9 Black
+FullName:Paperlogy 9 Black
+MenuName:페이퍼로지 9 Black
+StyleBits:0
+FamilyNameNative:페이퍼로지
+StyleNameNative:9 Black
+FullNameNative:페이퍼로지 9 Black
+WritingScript:Korean
+OutlineFileName:C:\박수현\포트폴리오작업\셀리뉴 피부과\Font\Paperlogy-1.001\Paperlogy-9Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1305192
+FileModTime:1738577553
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Paperlogy 9 Black
+NameArray:0,Win,16,Paperlogy
+NameArray:3,Win,1,페이퍼로지 9 Black
+NameArray:3,Win,16,페이퍼로지
+%EndFont
+
