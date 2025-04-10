@@ -148,6 +148,19 @@ main .container #main_program .program_title {
   flex-direction: column;
   position: relative;
 }
+main .container #main_program .program_title .pro_img {
+  overflow: hidden;
+}
+main .container #main_program .program_title:hover img {
+  transition: 1s ease-in-out;
+  transform: scale(1.2);
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .container #main_program .program_title:hover .pro_img {
+  border-radius: 0 0 250px 0;
+  transition: 0.8s ease-in-out;
+}
 main .container #main_program .program_text_right {
   justify-content: end;
 }
@@ -229,13 +242,17 @@ main .container #doctor_intro .swiper-slide {
   width: fit-content;
 }
 main .container #doctor_intro .swiper-slide .d_intro_text {
-  margin: 15% 0;
+  margin: 10% 0;
 }
 main .container #doctor_intro .swiper-slide .d_intro_text h2 {
   margin-bottom: 5%;
 }
 main .container #doctor_intro .swiper-slide .d_intro_text span {
   font-size: 1.2em;
+}
+main .container #doctor_intro .swiper-slide:hover .intro_img img {
+  border-radius: 0 0 250px 0;
+  transition: 0.4s ease-in-out;
 }
 main .container #doctor_intro .swiper-slide:hover .d_btn {
   opacity: 1;

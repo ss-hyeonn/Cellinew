@@ -13,9 +13,9 @@ const swiper = new Swiper('#main_view .swiper', {
    
     loop: true,
     
-    /*autoplay: {
+    autoplay: {
         delay: 2000,
-      },*/
+      },
 
   
     // If we need pagination
@@ -64,9 +64,9 @@ const swiper = new Swiper('#main_view .swiper', {
     });
     var review2 = new Swiper("#review .after", {
       spaceBetween: 30,
-     /* autoplay: {
-        delay: 2500,
-      },*/
+       autoplay: {
+        delay: 2000,
+      },
       loop: true,
       effect: "fade",
       speed: 800,

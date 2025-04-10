@@ -114,9 +114,24 @@ main{height: 100vh; overflow: hidden;
             display: flex; // flex 컨테이너로 설정
             flex-direction: column; // 수직 방향으로 정렬
             position: relative;
-            }
             
-        .program_text_right{justify-content: end;}      
+            .pro_img{overflow: hidden;}
+            
+        
+            }
+            .program_title:hover img{
+                transition:1s ease-in-out; // 부드러운 전환 효과 추가
+                transform: scale(1.2);
+                object-fit: cover;
+            }   
+            .program_title:hover .pro_img{
+                border-radius:0 0 250px 0;
+                transition:0.8s ease-in-out;
+                }
+            
+        .program_text_right{justify-content: end;}   
+        
+        
             
 
         .program_text{
@@ -163,10 +178,16 @@ main{height: 100vh; overflow: hidden;
 
         .swiper-slide{
             width: fit-content;
-            .d_intro_text{ margin: 15% 0;
+            .d_intro_text{ margin: 10% 0;
                 h2{margin-bottom: 5%;}
             span{font-size: 1.2em;}
         }    
+        
+        }
+       
+        .swiper-slide:hover .intro_img img{
+            border-radius: 0 0 250px 0;
+            transition: 0.4s ease-in-out;
         }
         .swiper-slide:hover .d_btn{opacity: 1; transition: all .3s ease-in-out;}
         .swiper-scrollbar{position: absolute; bottom: 0; left: 0; z-index: 100; background: #000; width: 100%; }
